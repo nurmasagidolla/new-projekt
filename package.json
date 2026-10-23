@@ -1,0 +1,10 @@
+{
+  "name": "cloutlab-bot-frontend",
+  "version": "1.0.0",
+  "description": "Cloutlab Studio Telegram Bot Frontend & Locales",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Cloutlab Frontend Ready'"
+  },
+  "dependencies": {}
+}

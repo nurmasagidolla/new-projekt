@@ -1,0 +1,24 @@
+:root {
+  /* Цветовая палитра Cloutlab */
+  --clout-bg-primary: #05050a;
+  --clout-bg-secondary: #0c0c17;
+  --clout-text-main: #eef0ff;
+  --clout-text-muted: #9598b8;
+  
+  /* Неоновые акценты */
+  --clout-neon-cyan: #00f0ff;
+  --clout-neon-pink: #ff2bd6;
+  --clout-neon-lime: #b6ff3b;
+  
+  /* Шрифты сайта */
+  --font-heading: 'Tektur', sans-serif;
+  --font-body: 'Onest', sans-serif;
+}
+
+body {
+  background-color: var(--clout-bg-primary);
+  color: var(--clout-text-main);
+  font-family: var(--font-body);
+  margin: 0;
+  padding: 0;
+}
